@@ -1,4 +1,4 @@
-# Divide file csv to smaller csv files.
+# Divide csv files to smaller csv files.
 
 ## Installation
 ```
